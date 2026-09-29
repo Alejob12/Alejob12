@@ -154,6 +154,7 @@ Estudiante de **Ingeniería de Sistemas e Industrial** en la Universidad de los 
 
 <div align="center">
   <a href="https://github.com/Alejob12"><img src="https://img.shields.io/badge/GitHub-Alejob12-1F1013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.upwork.com/freelancers/~01e392048620ef63d4"><img src="https://img.shields.io/badge/Upwork-Contr%C3%A1tame-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
   <img src="https://img.shields.io/badge/Bogot%C3%A1-Colombia-7A1734?style=for-the-badge" alt="Bogotá, Colombia" />
   <img src="https://img.shields.io/badge/Abierto%20a-freelance%20en%20datos%20y%20procesos-2ea043?style=for-the-badge" alt="Freelance" />
 </div>
