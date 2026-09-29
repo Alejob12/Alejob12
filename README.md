@@ -1,45 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7A1734,50:4A0E20,100:1F1013&height=230&section=header&text=Alejandro%20Bernal&fontSize=56&fontColor=F4DCE1&animation=twinkling&fontAlignY=40&desc=Ingenier%C3%ADa%20de%20Sistemas%20e%20Industrial%20%C2%B7%20Uniandes&descAlignY=62&descSize=18&descColor=C98CA0" alt="Alejandro Bernal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A1734,60:4A0E20,100:1F1013&height=210&section=header&text=Alejandro%20Bernal&fontSize=52&fontColor=F4DCE1&animation=fadeIn&fontAlignY=38&desc=Ingenier%C3%ADa%20de%20Sistemas%20e%20Industrial%20%C2%B7%20Universidad%20de%20los%20Andes&descAlignY=60&descSize=17&descColor=C98CA0" alt="Alejandro Bernal" />
 
 <a href="https://github.com/Alejob12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C98CA0&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%91%8B+Hola%2C+soy+Alejandro;%F0%9F%93%8A+Convierto+datos+y+procesos+en+decisiones;%E2%9A%99%EF%B8%8F+Reportes+autom%C3%A1ticos+con+Excel+y+SQL;%E2%98%81%EF%B8%8F+Backend+y+despliegue+en+la+nube;%F0%9F%93%8D+Bogot%C3%A1%2C+Colombia+%E2%86%92+Barcelona" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C98CA0&center=true&vCenter=true&width=760&height=42&lines=Datos%2C+procesos+y+automatizaci%C3%B3n;Backend+y+despliegue+en+la+nube;Inter%C3%A9s+en+ciberseguridad+y+seguridad+de+la+informaci%C3%B3n;Reportes+autom%C3%A1ticos+con+Excel%2C+SQL+y+Power+BI" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Alejob12&label=Visitas+al+perfil&color=7A1734&style=for-the-badge" alt="Visitas" />
-  <img src="https://img.shields.io/badge/Uniandes-Sistemas%20e%20Industrial-7A1734?style=for-the-badge" alt="Uniandes" />
-  <img src="https://img.shields.io/badge/Disponible%20para-proyectos%20freelance-2ea043?style=for-the-badge" alt="Freelance" />
+  <img src="https://komarev.com/ghpvc/?username=Alejob12&label=Visitas&color=7A1734&style=flat-square" alt="Visitas" />
+  <img src="https://img.shields.io/badge/Uniandes-Sistemas%20e%20Industrial-7A1734?style=flat-square" alt="Uniandes" />
+  <img src="https://img.shields.io/badge/Disponible%20para-proyectos%20freelance-2ea043?style=flat-square" alt="Freelance" />
+  <img src="https://img.shields.io/badge/Bogot%C3%A1-Colombia-1F1013?style=flat-square" alt="Bogotá, Colombia" />
 </p>
 
 </div>
 
 ---
 
-## 🧭 Sobre mí
+## Sobre mí
 
-Estudiante de **Ingeniería de Sistemas e Industrial** en la Universidad de los Andes. Me interesa que los datos y los procesos se traduzcan en decisiones: reportes automáticos, análisis con Excel y SQL, y software que se despliega y se mide.
+Estudiante de **Ingeniería de Sistemas e Industrial** en la Universidad de los Andes, próximo a graduarme. Me interesa que los datos y los procesos se traduzcan en decisiones: reportes automáticos, análisis con Excel y SQL, y software que se despliega, se mide y se protege.
 
-- 🔭 Ahora: proyectos de **datos y procesos** (Excel, SQL, Power BI) y backend en la nube
-- 🎓 Me gradúo en 2 semestres
-- 🌍 Planeando mudarme a **Barcelona**
-- ⚡ Me gusta lo que se automatiza, se mide y se puede mostrar funcionando
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Datos y procesos</h4>
+      Excel y Power Query, SQL, Power BI. Limpieza, consolidación y reportes que se actualizan solos.
+    </td>
+    <td width="33%" valign="top">
+      <h4>Software y nube</h4>
+      APIs con FastAPI, contenedores con Docker, infraestructura como código en AWS, apps con Angular y Android.
+    </td>
+    <td width="33%" valign="top">
+      <h4>Seguridad</h4>
+      Criptografía aplicada (RSA, Diffie-Hellman, AES, HMAC), disponibilidad e inyección de fallos, control de acceso en APIs. Área en la que sigo formándome.
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="assets/pipeline.svg" width="100%" alt="Flujo animado: datos, limpieza, control de seguridad y decisión" />
+</div>
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧾 <a href="https://github.com/Alejob12/FiscalIA-langing-page">FiscalIA</a></h3>
+      <h3><a href="https://github.com/Alejob12/FiscalIA-langing-page">FiscalIA</a></h3>
       Sitio, API y panel CRM para una propuesta de automatización contable. Lo diseñé y desarrollé de punta a punta.<br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=fly.io&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ <a href="https://github.com/Alejob12/ASR_Disponibilidad">ASR Disponibilidad</a></h3>
+      <h3><a href="https://github.com/Alejob12/ASR_Disponibilidad">ASR Disponibilidad</a></h3>
       Validación experimental de disponibilidad en AWS: infraestructura como código, pruebas de carga con 75 usuarios e inyección de fallos.<br/><br/>
       <img src="https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -48,14 +65,14 @@ Estudiante de **Ingeniería de Sistemas e Industrial** en la Universidad de los 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩸 <a href="https://github.com/Alejob12/dona-vida-app-mobile">Dona Vida</a></h3>
+      <h3><a href="https://github.com/Alejob12/dona-vida-app-mobile">Dona Vida</a></h3>
       App Android nativa de 43 pantallas construida a partir de mockups de Figma.<br/><br/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/Alejob12/Caso-3">Caso 3</a></h3>
+      <h3><a href="https://github.com/Alejob12/Caso-3">Caso 3</a></h3>
       Protocolo seguro cliente-servidor con medición de desempeño: RSA, Diffie-Hellman, AES y HMAC.<br/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Criptograf%C3%ADa-7A1734?style=flat-square" />
@@ -63,13 +80,13 @@ Estudiante de **Ingeniería de Sistemas e Industrial** en la Universidad de los 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✈️ <a href="https://github.com/Alejob12/Taller-3-DPOO">Taller 3 DPOO</a></h3>
+      <h3><a href="https://github.com/Alejob12/Taller-3-DPOO">Taller 3 DPOO</a></h3>
       Modelo orientado a objetos de una aerolínea con tarifas por temporada, vuelos, clientes y persistencia JSON.<br/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/POO-7A1734?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>📺 <a href="https://github.com/Alejob12/mynewapp">mynewapp</a></h3>
+      <h3><a href="https://github.com/Alejob12/mynewapp">mynewapp</a></h3>
       Lista de series con detalle, promedio y pruebas unitarias.<br/><br/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -79,7 +96,7 @@ Estudiante de **Ingeniería de Sistemas e Industrial** en la Universidad de los 
 
 ---
 
-## 🛠️ Herramientas
+## Herramientas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,ts,angular,fastapi,flask,docker,aws,postgres,git,github,c,html,css,bootstrap,androidstudio,figma&perline=9" alt="Herramientas" />
@@ -93,7 +110,7 @@ Estudiante de **Ingeniería de Sistemas e Industrial** en la Universidad de los 
 
 ---
 
-## 📈 Mi actividad en GitHub
+## Actividad en GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alejob12&show_icons=true&hide_border=false&bg_color=1F1013&title_color=C98CA0&text_color=F4DCE1&icon_color=C98CA0&border_color=7A1734&count_private=true&hide_title=false" height="170" alt="Estadísticas" />
@@ -109,16 +126,12 @@ Estudiante de **Ingeniería de Sistemas e Industrial** en la Universidad de los 
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejob12/Alejob12/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejob12/Alejob12/output/github-snake.svg" />
-    <img alt="Snake con mis contribuciones" src="https://raw.githubusercontent.com/Alejob12/Alejob12/output/github-snake.svg" />
-  </picture>
+  <img src="assets/terminal.svg" width="100%" alt="Terminal animada: canal seguro, despliegue y reporte" />
 </div>
 
 ---
 
-## 📬 Hablemos
+## Contacto
 
 <div align="center">
   <a href="https://github.com/Alejob12"><img src="https://img.shields.io/badge/GitHub-Alejob12-1F1013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
