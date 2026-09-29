@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40" role="presentation">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7A1734" stop-opacity="0"/><stop offset="0.5" stop-color="#C98CA0"/><stop offset="1" stop-color="#7A1734" stop-opacity="0"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<path d="M0,20 H120 l8,0 l6,-14 l8,28 l7,-22 l6,8 H300 H420 l8,0 l6,-14 l8,28 l7,-22 l6,8 H600 H720 l8,0 l6,-14 l8,28 l7,-22 l6,8 H900" fill="none" stroke="#7A1734" stroke-opacity="0.5" stroke-width="1.5"/>
+<path d="M0,20 H120 l8,0 l6,-14 l8,28 l7,-22 l6,8 H300 H420 l8,0 l6,-14 l8,28 l7,-22 l6,8 H600 H720 l8,0 l6,-14 l8,28 l7,-22 l6,8 H900" fill="none" stroke="url(#g)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" pathLength="100" stroke-dasharray="14 86">
+ <animate attributeName="stroke-dashoffset" values="14;-86" dur="3s" repeatCount="indefinite"/></path>
+<circle r="4" fill="#F4DCE1" filter="url(#glow)"><animateMotion path="M0,20 H120 l8,0 l6,-14 l8,28 l7,-22 l6,8 H300 H420 l8,0 l6,-14 l8,28 l7,-22 l6,8 H600 H720 l8,0 l6,-14 l8,28 l7,-22 l6,8 H900" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
